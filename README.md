@@ -29,9 +29,11 @@ This repository contains a 2D platformer game with mechanics and gameplay simila
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository from Outscal's original repository:** 
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/TheLazyIndianTechie/2D-Platformer-Game.git
 
-2. **Open the project in Unity:**
+3. **Open the project in Unity:**
    - Make sure you have Unity installed (LTS version recommended).
    - Open Unity Hub and add the cloned project.
 
